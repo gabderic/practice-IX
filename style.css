@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://wallbox.ru/resize/1920x1200/wallpapers/main2/201704/14853385085888778c48cce3.84522213.jpg);
+    position: absolute;
+    top: 30%;
+	left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    color: rgb(3, 3, 3);
+}
+
+.card-body {
+    background-color: rgb(211, 179, 140);
+}
+
+.card-header, .card-footer {
+    background-color: rgb(38, 48, 68);
+}
+
+#generation.btn.btn-success {
+    margin-right: 20px;
+}
+
+#clear.btn.btn-danger {
+    margin-left: 20px;
+}
